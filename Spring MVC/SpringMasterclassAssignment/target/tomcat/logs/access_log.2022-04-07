@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [07/Apr/2022:19:27:31 +0530] "GET /spring/AssignmentQ3 HTTP/1.1" 200 404 http-bio-8080-exec-1 198
+0:0:0:0:0:0:0:1 - - [07/Apr/2022:19:27:31 +0530] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 5
